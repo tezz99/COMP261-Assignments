@@ -1,0 +1,747 @@
+roadid	type	label    	city    	oneway	speed	roadclass	notforcar	notforpede	notforbicy
+100	6	airedale st	auckland	0	2	0	0	0	0
+9787	1	northwestern motorway	auckland	1	6	4	0	1	1
+13107	1	northwestern motorway	auckland	0	6	4	0	1	1
+13379	1	patiki rd exit 12	auckland	1	4	4	0	1	1
+13466	9	state highway 16	auckland	1	4	4	0	1	1
+13515	5	patiki rd	avondale	0	2	1	0	0	0
+13826	1	rosebank rd exit 11	auckland	1	4	4	0	1	1
+15328	5	rosebank rd	avondale	0	2	1	0	0	0
+15649	9	state highway 16	auckland	1	4	4	0	1	1
+15799	5	new north rd	avondale	0	2	1	0	0	0
+15884	6	herdman st	waterview	0	2	0	0	0	0
+15965	9	state highway 16	auckland	1	4	4	0	1	1
+16060	6	cowley st	waterview	0	2	0	0	0	0
+16270	6	kiwi rd	point chevalier	0	2	0	0	0	0
+16450	6	tui st	point chevalier	0	2	0	0	0	0
+16473	6	walmer rd	point chevalier	0	2	0	0	0	0
+16501	4	carrington rd	point chevalier	0	2	2	0	0	0
+16598	6	moa rd	point chevalier	0	2	0	0	0	0
+16687	6	kanuka st	point chevalier	0	2	0	0	0	0
+16769	6	kanuka st	point chevalier	0	2	0	0	0	0
+16770	6	riro st	point chevalier	0	2	0	0	0	0
+16830	6	premier ave	point chevalier	0	2	0	0	0	0
+16939	6	riro st	point chevalier	0	2	0	0	0	0
+17006	6	kettle st	point chevalier	0	2	0	0	0	0
+17021	6	premier ave	point chevalier	0	2	0	0	0	0
+17134	4	mt albert rd	mt albert	0	2	2	0	0	0
+17146	6	premier ave	point chevalier	0	2	0	0	0	0
+17198	6	pasadena ave	point chevalier	0	2	0	0	0	0
+17199	6	premier ave	point chevalier	0	2	0	0	0	0
+17279	6	chatham ave	mt albert	0	2	0	0	0	0
+17312	6	manor pl	point chevalier	0	2	0	0	0	0
+17313	6	pasadena ave	point chevalier	0	2	0	0	0	0
+17314	6	moray pl	point chevalier	0	2	0	0	0	0
+17358	6	verona ave	mt albert	0	2	0	0	0	0
+17388	6	motions rd	western springs	0	2	0	0	0	0
+17389	6	old mill rd	western springs	0	2	0	0	0	0
+17483	6	alexis ave	mt albert	0	2	0	0	0	0
+17487	6	ranleigh rd	mt albert	0	2	0	0	0	0
+17488	6	summit dr	mt albert	0	2	0	0	0	0
+17522	6	martin ave	mt albert	0	2	0	0	0	0
+17559	6	wesley ave	mt albert	0	2	0	0	0	0
+17560	6	caughey pl	mt albert	0	2	0	0	0	0
+17562	6	martin ave	mt albert	0	2	0	0	0	0
+17612	6	maybeck rd	mt albert	0	2	0	0	0	0
+17614	6	rossgrove tce	mt albert	0	2	0	0	0	0
+17615	6	martin ave	mt albert	0	2	0	0	0	0
+17646	6	martin ave	mt albert	0	2	0	0	0	0
+17694	6	linwood ave	mt albert	0	2	0	0	0	0
+17696	6	doreen ave	mt albert	0	2	0	0	0	0
+17740	6	burch st	mt albert	0	2	0	0	0	0
+17770	6	violet st	mt albert	0	2	0	0	0	0
+17773	6	baldwin ave	mt albert	0	2	0	0	0	0
+17793	9	state highway 16	auckland	1	4	4	0	1	1
+17810	6	norrie ave	mt albert	0	2	0	0	0	0
+17854	6	old mill rd	westmere	0	2	0	0	0	0
+17855	6	savage st	westmere	0	2	0	0	0	0
+17858	6	francis ryan cl	mt albert	0	2	0	0	0	0
+17860	6	toroa tce	mt albert	0	2	0	0	0	0
+17862	6	willis st	mt albert	0	2	0	0	0	0
+17908	6	linwood ave	mt albert	0	2	0	0	0	0
+17911	6	wairere ave	mt albert	0	2	0	0	0	0
+17973	6	bennett st	mt albert	0	2	0	0	0	0
+18056	6	linwood ave	mt albert	0	3	0	0	0	0
+18058	6	oakfield ave	mt albert	0	2	0	0	0	0
+18104	6	west view rd	westmere	0	3	0	0	0	0
+18105	6	west view rd	westmere	0	2	0	0	0	0
+18106	6	kitenui ave	mt albert	0	2	0	0	0	0
+18136	6	larchwood ave	westmere	0	2	0	0	0	0
+18195	6	challinor cres	mt albert	0	3	0	0	0	0
+18196	6	challinor cres	mt albert	0	2	0	0	0	0
+18197	6	linwood ave	mt albert	0	3	0	0	0	0
+18198	6	wairere ave	mt albert	0	2	0	0	0	0
+18234	6	asquith ave	mt albert	0	2	0	0	0	0
+18257	6	west view rd	westmere	0	2	0	0	0	0
+18258	6	selcourt rd	mt albert	0	2	0	0	0	0
+18259	6	selcourt rd	mt albert	0	2	0	0	0	0
+18260	6	jesmond tce	mt albert	0	2	0	0	0	0
+18263	5	old mill rd	western springs	0	2	1	0	0	0
+18264	6	wellpark ave	grey lynn	0	2	0	0	0	0
+18318	4	st lukes rd	western springs	0	2	2	0	0	0
+18344	6	brewster ave	mt albert	0	2	0	0	0	0
+18345	6	amandale ave	mt albert	0	2	0	0	0	0
+18346	6	amandale ave	mt albert	0	2	0	0	0	0
+18356	1	st lukes rd exit 6	auckland	1	4	4	0	1	1
+18357	6	malvern rd	morningside	0	2	0	0	0	0
+18406	6	malvern rd	morningside	0	2	0	0	0	0
+18424	6	seychelles st	mt albert	0	2	0	0	0	0
+18473	6	taylors rd	mt albert	0	2	0	0	0	0
+18475	6	alberton ave	mt albert	0	2	0	0	0	0
+18518	6	warnock st	westmere	0	2	0	0	0	0
+18520	6	duncan maclean link	western springs	0	2	0	0	0	0
+18521	6	malvern rd	morningside	0	2	0	0	0	0
+18523	6	western springs rd	morningside	0	2	0	0	0	0
+18524	6	springfield rd	western springs	0	2	0	0	0	0
+18525	6	malvern rd	morningside	0	2	0	0	0	0
+18526	6	brewster ave	mt albert	0	2	0	0	0	0
+18540	6	francis st	grey lynn	0	2	0	0	0	0
+18581	6	wellpark ave	grey lynn	0	2	0	0	0	0
+18582	6	jesmond tce	mt albert	0	2	0	0	0	0
+18631	6	francis st	grey lynn	0	2	0	0	0	0
+18632	6	sherwood ave	grey lynn	0	2	0	0	0	0
+18635	6	bannerman rd	western springs	0	2	0	0	0	0
+18636	22	walkway	auckland	0	1	0	1	0	0
+18638	6	selkirk rd	mt albert	0	2	0	0	0	0
+18639	6	selkirk rd	mt albert	0	2	0	0	0	0
+18745	6	francis st	grey lynn	0	2	0	0	0	0
+18746	6	stanmore rd	grey lynn	0	2	0	0	0	0
+18839	6	maxwell ave	grey lynn	0	2	0	0	0	0
+18841	6	hope st	grey lynn	0	2	0	0	0	0
+18852	1	st lukes rd exit 6	auckland	1	4	4	0	1	1
+18886	6	cardigan st	western springs	0	2	0	0	0	0
+18890	6	hazelmere rd	sandringham	0	2	0	0	0	0
+18900	9	state highway 16	auckland	1	4	4	0	1	1
+18935	6	wilton st	grey lynn	0	2	0	0	0	0
+18937	6	stanmore rd	grey lynn	0	2	0	0	0	0
+18988	6	rhyde st	western springs	0	3	0	0	0	0
+18990	6	malvern rd	morningside	0	2	0	0	0	0
+19005	6	sainsbury rd	mt albert	0	2	0	0	0	0
+19006	5	richmond rd	grey lynn	0	2	1	0	0	0
+19008	6	bullock trk	grey lynn	0	2	0	0	0	0
+19061	6	sefton ave	grey lynn	0	3	0	0	0	0
+19062	6	bullock trk	grey lynn	0	2	0	0	0	0
+19063	6	bullock trk	grey lynn	0	2	0	0	0	0
+19064	6	taylors rd	mt albert	0	2	0	0	0	0
+19065	6	locarno ave	sandringham	0	2	0	0	0	0
+19078	6	sackville st	grey lynn	0	2	0	0	0	0
+19113	6	sefton ave	grey lynn	0	2	0	0	0	0
+19114	6	castle st	grey lynn	0	2	0	0	0	0
+19115	6	stanmore rd	grey lynn	0	2	0	0	0	0
+19116	6	tuarangi rd	grey lynn	0	2	0	0	0	0
+19129	6	lyon ave	mt albert	0	2	0	0	0	0
+19162	6	wilton st	grey lynn	0	2	0	0	0	0
+19164	6	derwent st	western springs	0	2	0	0	0	0
+19168	6	sainsbury rd	mt albert	0	2	0	0	0	0
+19176	6	hakanoa st	grey lynn	0	2	0	0	0	0
+19215	6	myrtle st	western springs	0	2	0	0	0	0
+19217	6	parkhill rd	mt albert	0	2	0	0	0	0
+19218	6	rocky nook ave	mt albert	0	2	0	0	0	0
+19219	6	rocky nook ave	mt albert	0	2	0	0	0	0
+19236	6	ivanhoe rd	western springs	0	2	0	0	0	0
+19237	6	myrtle st	western springs	0	2	0	0	0	0
+19273	6	taylors rd	mt albert	0	2	0	0	0	0
+19289	6	morningside dr	morningside	0	2	0	0	0	0
+19291	6	morning star pl	mt albert	0	2	0	0	0	0
+19346	6	gilbert ave	grey lynn	0	2	0	0	0	0
+19348	6	mountain view rd	western springs	0	2	0	0	0	0
+19349	6	warwick st	western springs	0	2	0	0	0	0
+19351	6	wolseley st	mt albert	0	2	0	0	0	0
+19352	6	wolseley st	mt albert	0	2	0	0	0	0
+19404	6	sefton ave	grey lynn	0	2	0	0	0	0
+19405	6	wexford rd	grey lynn	0	2	0	0	0	0
+19406	6	tuarangi rd	grey lynn	0	2	0	0	0	0
+19407	6	levonia st	western springs	0	3	0	0	0	0
+19408	6	warwick st	western springs	0	3	0	0	0	0
+19409	6	wexford rd	grey lynn	0	2	0	0	0	0
+19432	6	wagener pl	mt albert	0	2	0	0	0	0
+19438	6	tutanekai st	grey lynn	0	2	0	0	0	0
+19468	6	mountain view rd	western springs	0	3	0	0	0	0
+19469	6	taylors rd	mt albert	0	2	0	0	0	0
+19470	6	sainsbury rd	mt albert	0	2	0	0	0	0
+19472	6	fergusson ave	sandringham	0	2	0	0	0	0
+19493	6	allen lane	grey lynn	0	2	0	0	0	0
+19494	6	edwards rd	grey lynn	0	2	0	0	0	0
+19543	6	baildon rd	grey lynn	0	2	0	0	0	0
+19544	6	fisherton st	grey lynn	0	2	0	0	0	0
+19545	6	fowlds ave	sandringham	0	2	0	0	0	0
+19560	6	shorwell st	sandringham	0	2	0	0	0	0
+19611	6	mountain view rd	western springs	0	2	0	0	0	0
+19613	6	mountain view rd	western springs	0	2	0	0	0	0
+19615	6	mountain view rd	western springs	0	2	0	0	0	0
+19616	6	morningside dr	morningside	0	2	0	0	0	0
+19621	6	shorwell st	sandringham	0	2	0	0	0	0
+19649	6	allen rd	grey lynn	0	2	0	0	0	0
+19650	6	finch st	western springs	0	2	0	0	0	0
+19652	6	morningside dr	morningside	0	2	0	0	0	0
+19653	6	exeter rd	mt albert	0	2	0	0	0	0
+19656	6	kingsway ave	sandringham	0	2	0	0	0	0
+19713	6	sainsbury rd	mt albert	0	2	0	0	0	0
+19761	6	taylors rd	mt albert	0	2	0	0	0	0
+19762	6	morningside dr	morningside	0	2	0	0	0	0
+19763	6	bournemouth ave	sandringham	0	2	0	0	0	0
+19764	6	gordon rd	sandringham	0	2	0	0	0	0
+19765	6	gordon rd	sandringham	0	2	0	0	0	0
+19766	6	argyle st	sandringham	0	2	0	0	0	0
+19769	6	shorwell st	sandringham	0	2	0	0	0	0
+19789	6	shirley rd	grey lynn	0	2	0	0	0	0
+19810	6	browning st	grey lynn	0	2	0	0	0	0
+19815	6	morningside dr	morningside	0	2	0	0	0	0
+19837	6	clifford rd	grey lynn	0	3	0	0	0	0
+19859	6	grove rd	sandringham	0	2	0	0	0	0
+19926	6	inwood st	kingsland	0	2	0	0	0	0
+19928	6	finch st	western springs	0	3	0	0	0	0
+19930	6	rona ave	grey lynn	0	2	0	0	0	0
+19931	6	herringson ave	grey lynn	0	2	0	0	0	0
+19932	6	don croot st	grey lynn	0	3	0	0	0	0
+19933	6	morningside dr	morningside	0	2	0	0	0	0
+19934	6	morningside dr	morningside	0	2	0	0	0	0
+19935	6	cornwallis st	sandringham	0	2	0	0	0	0
+19938	6	bournemouth ave	sandringham	0	2	0	0	0	0
+19954	6	firth rd	grey lynn	0	2	0	0	0	0
+19980	6	selbourne st	grey lynn	0	2	0	0	0	0
+19987	6	aroha ave	sandringham	0	2	0	0	0	0
+19988	6	aroha ave	sandringham	0	2	0	0	0	0
+20027	6	morningside dr	morningside	0	2	0	0	0	0
+20028	6	mcdonald st	sandringham	0	2	0	0	0	0
+20029	6	morningside dr	morningside	0	2	0	0	0	0
+20030	6	aroha ave	sandringham	0	2	0	0	0	0
+20031	6	cabbage tree swamp dr	sandringham	0	2	0	0	0	0
+20032	6	aroha ave	sandringham	0	2	0	0	0	0
+20033	6	aroha ave	sandringham	0	2	0	0	0	0
+20046	6	ivanhoe rd	western springs	0	2	0	0	0	0
+20085	6	dryden st	grey lynn	0	2	0	0	0	0
+20092	6	don croot st	morningside	0	2	0	0	0	0
+20093	6	don croot st	grey lynn	0	2	0	0	0	0
+20094	6	tay st	grey lynn	0	2	0	0	0	0
+20095	6	morningside dr	morningside	0	2	0	0	0	0
+20097	6	kenneth ave	sandringham	0	2	0	0	0	0
+20098	6	thanet ave	sandringham	0	2	0	0	0	0
+20099	6	aroha ave	sandringham	0	2	0	0	0	0
+20146	6	barrington rd	grey lynn	0	2	0	0	0	0
+20149	6	kenneth ave	sandringham	0	2	0	0	0	0
+20170	6	fourth ave	kingsland	0	2	0	0	0	0
+20208	6	prime rd	grey lynn	0	2	0	0	0	0
+20209	6	mcdonald st	sandringham	0	2	0	0	0	0
+20210	6	ethel st	sandringham	0	2	0	0	0	0
+20268	6	farrar st	grey lynn	0	2	0	0	0	0
+20269	6	farrar st	grey lynn	0	2	0	0	0	0
+20270	6	farrar st	grey lynn	0	2	0	0	0	0
+20272	6	jessel st	grey lynn	0	2	0	0	0	0
+20274	6	farrar st	grey lynn	0	2	0	0	0	0
+20275	6	williamson ave	grey lynn	0	2	0	0	0	0
+20276	6	altham ave	mt eden	0	2	0	0	0	0
+20284	5	great north rd	auckland	0	2	1	0	0	0
+20285	6	cockburn st	grey lynn	0	2	0	0	0	0
+20317	6	rossmay tce	mt eden	0	2	0	0	0	0
+20318	6	leslie ave	sandringham	0	2	0	0	0	0
+20319	6	altham ave	mt eden	0	2	0	0	0	0
+20333	6	school rd	kingsland	0	2	0	0	0	0
+20334	6	second ave	kingsland	0	2	0	0	0	0
+20335	6	third ave	kingsland	0	2	0	0	0	0
+20381	6	schofield st	grey lynn	0	2	0	0	0	0
+20384	6	begbie pl	sandringham	0	2	0	0	0	0
+20387	6	patterson st	sandringham	0	2	0	0	0	0
+20433	6	elgin st	grey lynn	0	2	0	0	0	0
+20434	6	coleridge st	grey lynn	0	2	0	0	0	0
+20435	6	ethel st	sandringham	0	2	0	0	0	0
+20436	6	collins st	sandringham	0	2	0	0	0	0
+20437	6	shaw st	sandringham	0	2	0	0	0	0
+20455	4	balmoral rd	morningside	0	2	2	0	0	0
+20495	6	lancing rd	sandringham	0	2	0	0	0	0
+20496	6	watson ave	sandringham	0	2	0	0	0	0
+20508	6	arnold st	grey lynn	0	2	0	0	0	0
+20509	6	lincoln st	ponsonby	0	2	0	0	0	0
+20561	6	northland st	grey lynn	0	2	0	0	0	0
+20577	6	rose rd	grey lynn	0	2	0	0	0	0
+20578	6	norfolk st	ponsonby	0	2	0	0	0	0
+20579	6	lincoln st	ponsonby	0	2	0	0	0	0
+20599	6	elgin st	grey lynn	0	2	0	0	0	0
+20602	6	cambourne rd	sandringham	0	2	0	0	0	0
+20617	6	douglas st	ponsonby	0	2	0	0	0	0
+20656	6	parrish rd	sandringham	0	2	0	0	0	0
+20671	6	brown st	ponsonby	0	2	0	0	0	0
+20672	6	chamberlain st	grey lynn	0	2	0	0	0	0
+20702	6	harcourt st	grey lynn	0	2	0	0	0	0
+20706	6	gribblehirst rd	sandringham	0	2	0	0	0	0
+20714	6	murdoch rd	grey lynn	0	2	0	0	0	0
+20715	6	wallingford st	grey lynn	0	2	0	0	0	0
+20762	6	ward tce	sandringham	0	2	0	0	0	0
+20764	6	paice ave	morningside	0	2	0	0	0	0
+20803	6	burnley tce	morningside	0	2	0	0	0	0
+20845	6	elgin st	grey lynn	0	2	0	0	0	0
+20848	6	hadlow tce	grey lynn	0	2	0	0	0	0
+20850	6	royal tce	sandringham	0	2	0	0	0	0
+20863	6	kingsland ave	kingsland	0	3	0	0	0	0
+20864	6	dickens st	grey lynn	0	2	0	0	0	0
+20865	6	kent st	ponsonby	0	2	0	0	0	0
+20866	6	kingsland ave	kingsland	0	2	0	0	0	0
+20867	6	first ave	kingsland	0	2	0	0	0	0
+20906	6	ngapawa st	sandringham	0	2	0	0	0	0
+20907	6	reimers ave	mt eden	0	2	0	0	0	0
+20923	6	julian st	grey lynn	0	2	0	0	0	0
+20960	6	grosvenor st	grey lynn	0	2	0	0	0	0
+20964	6	truro rd	sandringham	0	2	0	0	0	0
+20966	6	arabi st	sandringham	0	2	0	0	0	0
+21032	6	millais st	grey lynn	0	2	0	0	0	0
+21072	6	king edward st	mt eden	0	2	0	0	0	0
+21129	6	beaconsfield st	grey lynn	0	2	0	0	0	0
+21130	6	walters rd	mt eden	0	2	0	0	0	0
+21140	6	commercial rd	grey lynn	0	2	0	0	0	0
+21180	6	goring rd	sandringham	0	2	0	0	0	0
+21203	6	fitzroy st	ponsonby	0	2	0	0	0	0
+21248	6	king edward st	mt eden	0	2	0	0	0	0
+21250	6	dunbar rd	mt eden	0	2	0	0	0	0
+21260	6	ariki st	grey lynn	0	2	0	0	0	0
+21261	6	leighton st	grey lynn	0	2	0	0	0	0
+21262	6	mira st	ponsonby	0	2	0	0	0	0
+21263	6	cooper st	grey lynn	0	2	0	0	0	0
+21305	6	commercial rd	grey lynn	0	2	0	0	0	0
+21307	6	wellgarth st	sandringham	0	2	0	0	0	0
+21309	6	brixton rd	mt eden	0	2	0	0	0	0
+21320	6	seddon st	grey lynn	0	2	0	0	0	0
+21421	6	sandringham rd	kingsland	0	3	1	0	0	0
+21423	6	eldon rd	mt eden	0	2	0	0	0	0
+21424	6	elizabeth st	mt eden	0	2	0	0	0	0
+21434	6	turakina st	grey lynn	0	2	0	0	0	0
+21435	6	sussex st	grey lynn	0	2	0	0	0	0
+21436	6	central rd	kingsland	0	2	0	0	0	0
+21452	6	st albans ave	mt eden	0	2	0	0	0	0
+21481	6	edendale rd	kingsland	0	3	0	0	0	0
+21482	6	kingsland tce	kingsland	0	2	0	0	0	0
+21531	5	franklin rd	freemans bay	0	2	1	0	0	0
+21590	6	tongariro st	mt eden	0	2	0	0	0	0
+21617	6	sussex st	grey lynn	0	2	0	0	0	0
+21618	6	scanlan st	grey lynn	0	2	0	0	0	0
+21619	6	collingwood st	freemans bay	0	2	0	0	0	0
+21681	6	bellwood ave	mt eden	0	2	0	0	0	0
+21692	6	anglesea st	freemans bay	0	2	0	0	0	0
+21719	6	tanekaha st	mt eden	0	2	0	0	0	0
+21723	6	cricket ave	mt eden	0	2	0	0	0	0
+21734	6	scanlan st	grey lynn	0	2	0	0	0	0
+21790	6	mackelvie st	grey lynn	0	2	0	0	0	0
+21791	6	dean st	grey lynn	0	2	0	0	0	0
+21795	6	new bond st	kingsland	0	2	0	0	0	0
+21796	6	new bond st	kingsland	0	2	0	0	0	0
+21797	6	king st	newton	0	2	0	0	0	0
+21811	6	picton st	freemans bay	0	2	0	0	0	0
+21839	6	home st	grey lynn	0	2	0	0	0	0
+21843	5	bond st	grey lynn	0	2	1	0	0	0
+21844	6	onslow rd	mt eden	0	2	0	0	0	0
+21860	6	paget st	freemans bay	0	2	0	0	0	0
+21861	6	heke st	freemans bay	0	2	0	0	0	0
+21891	6	picton st	freemans bay	0	2	0	0	0	0
+21894	6	niger st	grey lynn	0	2	0	0	0	0
+21896	6	keppell st	grey lynn	0	2	0	0	0	0
+21897	6	kowhai st	mt eden	0	2	0	0	0	0
+21898	6	raleigh st	mt eden	0	2	0	0	0	0
+21912	6	colin shaw lane	freemans bay	0	2	0	0	0	0
+21913	6	potatau st	grey lynn	0	2	0	0	0	0
+21952	6	picton st	freemans bay	0	2	0	0	0	0
+21956	6	kowhai st	mt eden	0	2	0	0	0	0
+21957	6	kowhai st	mt eden	0	2	0	0	0	0
+21959	6	taupata st	mt eden	0	2	0	0	0	0
+21968	6	stormont pl	kingsland	0	3	0	0	0	0
+22008	6	williamson ave	grey lynn	0	2	0	0	0	0
+22009	6	pollen st	grey lynn	0	2	0	0	0	0
+22022	6	brisbane st	grey lynn	0	2	0	0	0	0
+22063	6	picton st	freemans bay	0	2	0	0	0	0
+22064	6	barrie st	freemans bay	0	2	0	0	0	0
+22086	6	mt pleasant rd	mt eden	0	2	0	0	0	0
+22130	6	williamson ave	grey lynn	0	3	0	0	0	0
+22131	6	king st	newton	0	2	0	0	0	0
+22132	6	aitken tce	kingsland	0	2	0	0	0	0
+22133	6	king st	newton	0	2	0	0	0	0
+22134	6	marlborough st	mt eden	0	2	0	0	0	0
+22154	6	kirk st	grey lynn	1	2	0	0	0	0
+22155	6	mont le grand rd	mt eden	0	2	0	0	0	0
+22156	6	herbert rd	mt eden	0	2	0	0	0	0
+22198	6	hepburn st	freemans bay	1	3	0	0	0	0
+22200	6	george st	kingsland	0	2	0	0	0	0
+22211	6	waima st	grey lynn	1	2	0	0	0	0
+22261	6	hesketh st	kingsland	0	2	0	0	0	0
+22264	6	cromwell st	mt eden	0	2	0	0	0	0
+22276	6	milton rd	mt eden	0	2	0	0	0	0
+22278	6	hepburn st	freemans bay	0	2	0	0	0	0
+22311	6	putiki st	grey lynn	1	2	0	0	0	0
+22313	6	waima st	grey lynn	0	2	0	0	0	0
+22314	6	monmouth st	grey lynn	1	2	0	0	0	0
+22328	9	state highway 16	auckland	1	4	4	0	1	1
+22330	6	prospect tce	mt eden	0	2	0	0	0	0
+22368	6	partridge st	grey lynn	0	2	0	0	0	0
+22371	6	richbourne st	kingsland	0	2	0	0	0	0
+22372	6	george st	kingsland	0	2	0	0	0	0
+22375	6	cromwell st	mt eden	0	2	0	0	0	0
+22391	6	maidstone st	grey lynn	0	2	0	0	0	0
+22417	6	smith st	freemans bay	0	2	0	0	0	0
+22419	6	burns st	grey lynn	0	2	0	0	0	0
+22421	6	tawari st	mt eden	0	2	0	0	0	0
+22423	6	george st	kingsland	0	2	0	0	0	0
+22435	6	ewington ave	mt eden	0	2	0	0	0	0
+22436	6	george st	kingsland	0	2	0	0	0	0
+22466	6	kirk st	grey lynn	0	2	0	0	0	0
+22469	6	mostyn st	kingsland	0	2	0	0	0	0
+22471	6	charles st	mt eden	0	2	0	0	0	0
+22472	6	mostyn st	kingsland	0	3	0	0	0	0
+22507	6	valley rd	mt eden	0	2	0	0	0	0
+22509	6	manatu st	mt eden	0	2	0	0	0	0
+22568	6	monmouth st	grey lynn	0	2	0	0	0	0
+22588	6	nixon st	grey lynn	0	2	0	0	0	0
+22621	6	chapman st	grey lynn	0	2	0	0	0	0
+22622	6	haslett st	eden terrace	0	2	0	0	0	0
+22623	6	takau st	eden terrace	0	3	0	0	0	0
+22625	6	buchanan st	kingsland	0	2	0	0	0	0
+22626	6	akepiro st	mt eden	0	2	0	0	0	0
+22642	6	lisnoe ave	mt eden	0	3	0	0	0	0
+22655	6	ace pl	kingsland	0	2	0	0	0	0
+22656	6	rarawa st	mt eden	0	2	0	0	0	0
+22672	6	view rd	mt eden	0	2	0	0	0	0
+22693	6	chapman st	grey lynn	0	2	0	0	0	0
+22694	6	burgoyne st	grey lynn	0	2	0	0	0	0
+22695	6	carrick pl	mt eden	0	2	0	0	0	0
+22696	6	carrick pl	mt eden	0	2	0	0	0	0
+22699	6	bright st	eden terrace	0	2	0	0	0	0
+22700	6	vailima way	eden terrace	0	2	0	0	0	0
+22701	6	copeland st	eden terrace	0	2	0	0	0	0
+22702	6	rarawa st	mt eden	0	2	0	0	0	0
+22703	6	croydon rd	mt eden	0	2	0	0	0	0
+22704	6	rarawa st	mt eden	0	2	0	0	0	0
+22715	9	-	auckland	1	4	4	0	1	1
+22749	6	burgoyne st	grey lynn	0	2	0	0	0	0
+22752	5	karangahape rd	newton	0	2	1	0	0	0
+22753	6	bellevue rd	mt eden	0	2	0	0	0	0
+22756	6	kenyon ave	mt eden	0	2	0	0	0	0
+22768	1	nelson street exit	auckland	1	4	4	0	1	1
+22770	6	horopito st	mt eden	0	3	0	0	0	0
+22773	6	abbey st	newton	0	2	0	0	0	0
+22774	6	alexander st	kingsland	0	2	0	0	0	0
+22775	6	hereford st	freemans bay	0	2	0	0	0	0
+22796	6	virginia ave w	eden terrace	0	2	0	0	0	0
+22798	6	alderley rd	mt eden	0	3	0	0	0	0
+22820	6	brentwood ave	mt eden	0	2	0	0	0	0
+22821	6	mewburn ave	mt eden	0	2	0	0	0	0
+22852	22	mahon way	auckland central	0	0	0	1	0	0
+22853	6	hereford st	freemans bay	0	3	0	0	0	0
+22855	6	suffolk st	eden terrace	0	2	0	0	0	0
+22857	6	alderley rd	mt eden	0	3	0	0	0	0
+22858	6	alderley rd	mt eden	0	3	0	0	0	0
+22860	6	leamington rd	mt eden	1	2	0	0	0	0
+22861	6	kamahi st	mt eden	0	2	0	0	0	0
+22880	5	karangahape rd	newton	0	2	1	0	0	0
+22881	6	ophir st	newton	0	2	0	0	0	0
+22911	6	winchester st	grey lynn	0	3	0	0	0	0
+22913	6	kawaka st	mt eden	0	3	0	0	0	0
+22930	6	gundry st	auckland central	0	2	0	0	0	0
+22934	1	newton rd exit 5	auckland	1	4	4	0	1	1
+22958	6	devon st	eden terrace	0	2	0	0	0	0
+22961	6	evelyn st	eden terrace	0	2	0	0	0	0
+22963	6	avenham wlk	mt eden	0	2	0	0	0	0
+22967	6	woodside rd	mt eden	0	2	0	0	0	0
+22983	4	ian mckinnon dr	eden terrace	0	2	2	0	0	0
+23010	6	howe st	newton	0	2	0	0	0	0
+23011	6	whitson tce	freemans bay	0	2	0	0	0	0
+23012	6	howe st	newton	0	2	0	0	0	0
+23013	6	brentwood ave	mt eden	0	2	0	0	0	0
+23014	6	minnie st	eden terrace	0	3	0	0	0	0
+23015	6	minnie st	eden terrace	0	2	0	0	0	0
+23016	6	woodford rd	mt eden	0	2	0	0	0	0
+23017	6	woodford rd	mt eden	0	2	0	0	0	0
+23018	6	conway rd	mt eden	0	2	0	0	0	0
+23019	6	woodford rd	mt eden	0	2	0	0	0	0
+23022	6	kingsview rd	mt eden	0	2	0	0	0	0
+23052	6	brentwood ave	mt eden	0	2	0	0	0	0
+23054	6	virginia ave e	eden terrace	1	2	0	0	0	0
+23061	6	croydon rd	mt eden	0	2	0	0	0	0
+23063	6	edinburgh st	auckland central	0	2	0	0	0	0
+23080	6	charlotte st	eden terrace	0	2	0	0	0	0
+23081	6	fleet st	eden terrace	0	2	0	0	0	0
+23084	6	wynyard rd	mt eden	0	2	0	0	0	0
+23123	6	brentwood ave	mt eden	0	2	0	0	0	0
+23124	6	horoeka ave	mt eden	0	2	0	0	0	0
+23126	6	charlotte st	eden terrace	1	2	0	0	0	0
+23127	6	wrights spur	mt eden	0	2	0	0	0	0
+23143	6	porters ave	eden terrace	0	2	0	0	0	0
+23144	6	cobden st	auckland central	0	2	0	0	0	0
+23165	6	porters ave	eden terrace	0	2	0	0	0	0
+23166	6	punga st	mt eden	0	2	0	0	0	0
+23168	6	pentland ave	mt eden	0	2	0	0	0	0
+23169	6	pentland ave	mt eden	0	2	0	0	0	0
+23170	6	pentland ave	mt eden	0	2	0	0	0	0
+23184	6	piwakawaka st	eden terrace	0	2	0	0	0	0
+23208	6	macaulay st	eden terrace	0	2	0	0	0	0
+23211	6	edenvale cres	mt eden	1	2	0	0	0	0
+23212	6	fenton st	mt eden	0	2	0	0	0	0
+23213	6	haultain st	mt eden	0	2	0	0	0	0
+23215	6	edenvale park rd	mt eden	0	2	0	0	0	0
+23216	6	porters ave	eden terrace	0	2	0	0	0	0
+23222	6	henley rd	mt eden	0	2	0	0	0	0
+23223	6	fairview rd	mt eden	0	2	0	0	0	0
+23229	6	west tce	auckland central	0	2	0	0	0	0
+23246	6	galatos st	auckland central	0	2	0	0	0	0
+23260	9	-	freemans bay	1	4	4	0	1	1
+23263	6	cargill st	eden terrace	0	2	0	0	0	0
+23274	6	sylvan ave w	mt eden	0	2	0	0	0	0
+23278	6	valley rd	mt eden	0	2	0	0	0	0
+23302	6	france st s	eden terrace	0	2	0	0	0	0
+23303	6	beresford sq	auckland central	0	2	0	0	0	0
+23304	6	hopetoun st	auckland	0	2	1	0	0	0
+23306	6	south st	auckland central	0	2	0	0	0	0
+23307	6	couldry st	eden terrace	0	2	0	0	0	0
+23308	6	rendall pl	eden terrace	0	2	0	0	0	0
+23310	6	edenvale cres	mt eden	1	2	0	0	0	0
+23311	6	rendall pl	eden terrace	0	2	0	0	0	0
+23314	6	charlton ave	mt eden	0	2	0	0	0	0
+23322	5	nelson st	auckland central	1	2	2	0	0	0
+23324	6	boardman lane	auckland central	0	2	0	0	0	0
+23347	6	st james st	auckland central	0	2	0	0	0	0
+23348	6	diamond st	eden terrace	0	2	0	0	0	0
+23349	6	norwich st	eden terrace	0	2	0	0	0	0
+23350	6	karaka st	eden terrace	0	2	0	0	0	0
+23351	6	france st s	eden terrace	0	2	0	0	0	0
+23352	6	hopetoun st	auckland	0	2	1	0	0	0
+23353	6	diamond st	eden terrace	0	2	0	0	0	0
+23354	6	macaulay st	eden terrace	0	2	0	0	0	0
+23355	6	france st s	eden terrace	0	2	0	0	0	0
+23356	6	beresford sq	auckland central	0	2	0	0	0	0
+23357	6	karaka st	eden terrace	0	2	0	0	0	0
+23359	6	ruru st	eden terrace	0	2	0	0	0	0
+23361	6	ashton rd	mt eden	0	2	0	0	0	0
+23379	6	east st	auckland	0	2	0	0	0	0
+23380	6	day st	auckland central	0	2	0	0	0	0
+23397	6	warimu pl	auckland central	0	3	0	0	0	0
+23401	6	dacre st	eden terrace	0	2	0	0	0	0
+23402	6	beresford sq	auckland central	1	2	0	0	0	0
+23405	6	tarata st	mt eden	0	2	0	0	0	0
+23407	6	tarata st	mt eden	0	2	0	0	0	0
+23408	6	ashton rd	mt eden	0	2	0	0	0	0
+23409	6	charlton ave	mt eden	0	2	0	0	0	0
+23440	6	sylvan ave e	mt eden	0	2	0	0	0	0
+23441	6	nikau st	eden terrace	0	2	0	0	0	0
+23442	6	ruru st	eden terrace	0	2	0	0	0	0
+23444	6	ashton rd	mt eden	0	2	0	0	0	0
+23455	6	canada st	auckland central	0	2	0	0	0	0
+23456	5	pitt st	auckland central	0	2	1	0	0	0
+23458	6	upper queen st	grafton	0	2	1	0	0	0
+23460	6	exmouth st	eden terrace	0	2	0	0	0	0
+23461	6	exmouth st	eden terrace	0	2	0	0	0	0
+23462	6	exmouth st	eden terrace	0	2	0	0	0	0
+23463	6	basque rd	eden terrace	0	2	0	0	0	0
+23465	6	sherbourne rd	mt eden	0	2	0	0	0	0
+23482	6	vincent st	auckland central	0	2	1	0	0	0
+23496	6	exmouth st	eden terrace	0	2	0	0	0	0
+23497	5	pitt st	auckland central	0	2	1	0	0	0
+23499	6	upper queen st	grafton	0	2	1	0	0	0
+23501	6	edenvale cres	mt eden	1	2	0	0	0	0
+23502	6	shaddock st	eden terrace	0	2	0	0	0	0
+23516	6	mercury lane	auckland central	1	2	0	0	0	0
+23517	6	cross st	auckland central	1	2	0	0	0	0
+23518	6	poynton tce	auckland central	0	2	0	0	0	0
+23524	6	canada st	auckland central	0	2	0	0	0	0
+23525	6	upper queen st	grafton	0	2	1	0	0	0
+23527	6	karaka st	eden terrace	0	2	0	0	0	0
+23528	6	graysons lane	mt eden	0	2	0	0	0	0
+23529	6	edenvale cres	mt eden	1	2	0	0	0	0
+23530	6	nikau st	eden terrace	0	2	0	0	0	0
+23531	6	shaddock st	eden terrace	0	2	0	0	0	0
+23532	6	kelly st	mt eden	0	2	0	1	0	0
+23533	6	korari st	eden terrace	0	2	0	0	0	0
+23564	6	west st	grafton	0	2	0	0	0	0
+23565	6	upper queen st	grafton	0	2	1	0	0	0
+23569	6	basque rd	eden terrace	0	2	0	0	0	0
+23570	6	dundonald st	eden terrace	0	2	0	0	0	0
+23571	6	kelly st	mt eden	0	2	0	0	0	0
+23572	6	kelly st	mt eden	0	2	0	0	0	0
+23584	6	flower st	eden terrace	0	2	0	0	0	0
+23597	6	alex evans st	eden terrace	0	2	1	0	0	0
+23598	6	upper queen st	grafton	0	2	1	0	0	0
+23603	6	canada st	auckland central	0	2	0	0	0	0
+23604	6	nikau st	eden terrace	0	2	0	0	0	0
+23605	6	flower st	eden terrace	0	2	0	0	0	0
+23606	6	puka st	mt eden	0	2	0	0	0	0
+23611	6	coles ave	mt eden	0	2	0	0	0	0
+23613	6	bourne st	mt eden	0	2	0	0	0	0
+23635	6	upper queen st	grafton	0	2	1	0	0	0
+23636	6	stable lane	eden terrace	0	2	0	0	0	0
+23639	6	edwin st	mt eden	0	2	0	0	0	0
+23642	6	shaddock st	eden terrace	0	2	0	0	0	0
+23643	6	esplanade rd	mt eden	0	2	0	0	0	0
+23674	6	alex evans st	eden terrace	0	2	1	0	0	0
+23675	6	upper queen st	grafton	0	2	1	0	0	0
+23678	6	enfield st	mt eden	0	2	0	0	0	0
+23679	6	akiraho st	mt eden	0	2	0	0	0	0
+23695	5	symonds st	auckland	0	2	1	0	0	0
+23712	6	alex evans st	eden terrace	0	2	1	0	0	0
+23713	6	st benedicts st	eden terrace	0	2	0	0	0	0
+23714	6	upper queen st	grafton	0	2	1	0	0	0
+23715	6	scotia pl	auckland central	0	2	0	0	0	0
+23716	6	scotia pl	auckland central	0	2	0	0	0	0
+23717	6	scotia pl	auckland central	0	2	0	0	0	0
+23720	6	kohekohe st	mt eden	0	2	0	0	0	0
+23721	6	enfield st	mt eden	0	2	0	0	0	0
+23723	6	harold st	mt eden	0	2	0	0	0	0
+23724	22	walkway	auckland	0	2	0	1	0	0
+23725	6	windmill rd	epsom	0	2	0	0	0	0
+23726	6	disraeli st	epsom	0	2	0	0	0	0
+23728	5	mt eden rd	mt eden	0	2	1	0	0	0
+23738	6	hohipere st	eden terrace	0	2	0	0	0	0
+23747	6	water st	grafton	0	2	0	0	0	0
+23748	6	edwin st	mt eden	0	2	0	0	0	0
+23751	6	hillside cres s	mt eden	0	2	0	0	0	0
+23753	6	batger rd	mt eden	0	2	0	0	0	0
+23757	6	rautangi rd	mt eden	0	2	0	0	0	0
+23758	6	ngauruhoe st	mt eden	0	2	0	0	0	0
+23759	6	ngauruhoe st	mt eden	0	2	0	0	0	0
+23760	6	essex rd	mt eden	0	2	0	0	0	0
+23761	6	essex rd	mt eden	0	2	0	0	0	0
+23762	6	newnham lane	mt eden	0	2	0	0	0	0
+23772	6	queen st	auckland central	0	2	1	0	0	0
+23787	6	boston rd	grafton	0	2	1	0	0	0
+23790	6	edwin st	mt eden	0	2	0	0	0	0
+23791	6	mary st	mt eden	0	2	0	0	0	0
+23792	6	burleigh st	grafton	0	2	0	0	0	0
+23793	6	percy st	mt eden	0	2	0	0	0	0
+23798	6	poronui st	mt eden	0	2	0	0	0	0
+23799	6	oaklands rd	mt eden	0	2	0	0	0	0
+23814	6	glenside cres	eden terrace	0	3	0	0	0	0
+23833	6	symonds st	auckland	0	2	1	0	0	0
+23836	6	normanby rd	mt eden	0	2	0	0	0	0
+23838	6	hillside cres n	mt eden	0	2	0	0	0	0
+23839	6	edwin st	mt eden	0	2	0	0	0	0
+23842	6	stokes rd	mt eden	0	2	1	0	0	0
+23852	6	liverpool st	auckland central	0	2	0	0	0	0
+23854	6	city rd	auckland	0	2	0	0	0	0
+23863	6	symonds st	auckland	0	3	1	0	0	0
+23864	6	symonds st	auckland	0	2	1	0	0	0
+23865	6	enfield st	mt eden	0	2	0	0	0	0
+23866	6	hillside cres s	mt eden	0	2	0	0	0	0
+23867	6	hillside cres s	mt eden	0	2	0	0	0	0
+23874	6	turner st	auckland central	0	2	0	0	0	0
+23888	6	hillside cres s	mt eden	0	2	0	0	0	0
+23901	6	waverley st	auckland central	1	2	0	0	0	0
+23915	6	hillside cres s	mt eden	0	2	0	0	0	0
+23929	9	southern motorway	grafton	1	4	4	0	1	1
+23942	6	normanby rd	mt eden	0	2	0	0	0	0
+23943	6	normanby rd	mt eden	0	2	0	0	0	0
+23944	6	clive rd	eden terrace	0	2	0	0	0	0
+23945	6	eglinton ave	mt eden	0	2	0	0	0	0
+23947	6	disraeli st	epsom	0	2	0	0	0	0
+23949	6	garry rd	mt eden	0	2	0	0	0	0
+23957	5	symonds st	auckland	0	2	1	0	0	0
+23958	5	grafton bridge	grafton	0	0	1	1	0	0
+23977	6	normanby rd	mt eden	0	2	0	0	0	0
+23982	6	normanby rd	mt eden	0	2	0	0	0	0
+23984	6	hasbury ave	epsom	0	2	0	0	0	0
+24007	6	white st	auckland central	0	2	0	0	0	0
+24017	6	normanby rd	mt eden	0	2	0	0	0	0
+24039	6	st martins lane	grafton	0	2	0	0	0	0
+24053	6	epsom ave	epsom	0	2	0	0	0	0
+24057	6	disraeli st	epsom	0	2	0	0	0	0
+24091	6	st martins lane	grafton	0	2	0	0	0	0
+24092	6	st martins lane	grafton	0	2	0	0	0	0
+24108	6	st martins lane	grafton	0	2	0	0	0	0
+24171	6	beckham pl	grafton	0	2	0	0	0	0
+24172	6	clive rd	eden terrace	0	2	0	0	0	0
+24181	5	grafton rd	auckland	0	2	1	0	0	0
+24197	6	bridge st	grafton	0	2	0	0	0	0
+24267	6	seafield view rd	grafton	0	2	0	0	0	0
+24269	6	barnett cres	epsom	0	2	0	0	0	0
+24270	6	barnett cres	epsom	0	2	0	0	0	0
+24292	6	park rd	grafton	0	2	0	0	0	0
+24304	6	ferncroft st	grafton	0	2	0	0	0	0
+24336	6	clive rd	newmarket	0	2	0	0	0	0
+24402	6	mountain rd	epsom	0	2	1	0	0	0
+24430	6	mountain rd	epsom	0	2	1	0	0	0
+24545	5	stanley st	grafton	1	2	1	0	0	0
+24604	5	owens rd	epsom	0	2	1	0	0	0
+24821	6	alten rd	auckland central	0	2	0	0	0	0
+24858	6	churchill st	auckland central	0	2	0	0	0	0
+24862	6	nicholls lane	auckland central	0	3	0	0	0	0
+41940	6	sydenham rd	mt eden	0	2	0	0	0	0
+41941	6	ngahura st	eden terrace	0	2	0	0	0	0
+41977	6	puhi huia rd	mt eden	0	2	0	0	0	0
+42327	9	southern motorway exit	auckland	1	4	4	0	1	1
+42344	1	northwestern motorway	auckland	1	6	4	0	1	1
+42346	1	port and stanley street exit	auckland	1	6	4	0	1	1
+42347	1	wellesley street exit 2a	auckland	1	6	4	0	1	1
+42348	1	southern motorway	newton	1	6	4	0	1	1
+42349	1	southern motorway	grafton	1	6	4	0	1	1
+42529	1	port and wellesley street exit	auckland	1	4	4	0	1	1
+42533	1	state highway 16	auckland	1	6	4	0	1	1
+42619	1	great north rd exit 8	-	1	4	4	0	1	1
+42620	9	great north rd exit 8	auckland	1	4	4	0	1	1
+42621	1	great north rd exit 8	-	1	2	4	0	1	1
+42629	6	new north rd underpass	-	1	3	0	0	0	0
+42630	6	new north rd connection	avondale	1	3	0	0	0	0
+42651	5	great north rd	auckland	0	2	1	0	0	0
+42663	9	-	auckland	1	4	4	0	1	1
+42664	5	northern motorway exit	-	1	4	4	0	1	1
+42671	6	puhi huia rd	mt eden	0	2	0	0	0	0
+42757	6	puhi huia rd	mt eden	0	2	0	0	0	0
+42803	5	ponsonby rd	st marys bay	0	2	1	0	0	0
+42812	5	newton rd	newton	0	2	1	0	0	0
+42813	6	randolph st	newton	0	2	0	0	0	0
+42893	1	great north rd exit 8	-	1	4	4	0	0	0
+42894	1	great north rd exit 8	-	1	4	4	0	0	0
+42902	5	point chevalier rd	point chevalier	0	2	1	0	0	0
+42903	5	grafton rd	grafton	0	2	1	0	0	0
+42908	5	surrey cres	grey lynn	0	2	1	0	0	0
+42911	6	crummer rd	grey lynn	0	2	0	0	0	0
+42912	6	crummer rd	newton	0	2	0	0	0	0
+42983	4	khyber pass rd	eden terrace	0	2	1	0	0	0
+42985	6	hopetoun st	newton	0	2	1	0	0	0
+43014	5	stanley st	parnell	0	2	1	0	0	0
+43055	1	helensville and port exit 426	-	1	4	4	0	0	0
+43482	6	mercury lane	auckland central	1	2	0	0	0	0
+43606	22	walkway	-	0	1	0	1	0	0
+43607	22	walkway	western springs	0	1	0	1	0	0
+43608	22	cycleway	-	0	1	0	1	0	0
+43619	6	lovelock ave	mt eden	0	2	0	0	0	0
+43659	6	ngata st	auckland central	0	2	0	0	0	0
+43946	6	grange rd	mt eden	0	2	0	0	0	0
+44100	6	hopetoun st	-	1	2	0	0	0	0
+44153	1	northern motorway	newmarket	1	6	4	0	1	1
+44211	22	challinor cres	mt albert	0	2	0	1	0	0
+44212	22	walkway	-	0	2	0	1	0	0
+44213	22	walkway	-	0	2	0	1	0	0
+44214	22	walkway	-	0	2	0	1	0	0
+44215	22	walkway	-	0	2	0	1	0	0
+44216	22	walkway	-	0	2	0	1	0	0
+44217	22	roy clements treeway walkway	-	0	2	0	1	0	0
+44226	5	sandringham rd	sandringham	0	2	1	0	0	0
+44339	6	virginia ave e	eden terrace	0	2	0	0	0	0
+44340	5	new north road connection	mt eden	1	2	0	0	0	0
+44341	4	dominion rd	mt eden	1	2	0	0	0	0
+44345	22	walkway	-	0	2	0	1	0	0
+44407	5	garnet rd	westmere	0	2	1	0	0	0
+44494	4	dominion rd	mt roskill	0	2	2	0	0	0
+44549	6	lloyd ave	mt albert	0	2	0	0	0	0
+44550	6	john st	ponsonby	0	2	0	0	0	0
+44565	6	kelly st	mt eden	0	2	0	0	0	0
+44576	22	walkway	-	0	2	0	1	0	0
+44582	4	great north rd	auckland	0	2	2	0	0	0
+44628	6	carrick pl	mt eden	0	2	0	0	0	0
+44629	6	carrick pl	mt eden	0	2	0	1	0	0
+44817	9	-	-	1	3	4	0	0	0
+44825	9	-	-	1	2	4	0	0	0
+44890	9	-	-	1	2	4	0	0	0
+44967	9	-	-	1	2	4	0	0	0
+45063	9	-	-	1	2	4	0	0	0
+45064	6	old mill rd	westmere	1	2	0	0	0	0
+45065	9	-	-	1	2	4	0	0	0
+45066	22	walkway	-	0	2	0	1	0	0
+45097	6	liverpool st	auckland central	1	2	0	0	0	0
+45098	6	waverley st	auckland central	0	2	0	0	0	0
+45251	9	-	-	1	2	4	0	0	0
+45253	6	councillors dr	mt albert	0	2	0	0	0	0
+45367	5	wellington st	freemans bay	0	2	1	0	0	0
+45370	5	union st	auckland central	0	2	1	0	0	0
+45512	5	wellesley street east	auckland	0	2	1	0	0	0
+45555	22	walkway/cycleway	auckland central	0	2	0	1	0	0
+45556	22	walkway/cycleway	-	0	2	0	0	0	0
+45557	22	walkway/cycleway	auckland central	0	2	0	1	0	0
+45558	22	walkway/cycleway	auckland central	0	2	0	1	0	0
+45861	6	samoa house lane	auckland central	0	2	0	0	0	0
+45901	6	atawhai lane	avondale	0	2	0	0	0	0
+46055	5	cook st	auckland central	0	2	1	0	0	0
+46063	5	union st	auckland central	0	2	1	0	0	0
+46064	6	patiki rd	-	0	1	0	0	0	0
